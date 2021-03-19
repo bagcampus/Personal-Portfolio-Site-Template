@@ -107,3 +107,13 @@ section.resume-section .resume-section-content {
     /* font-size: 1.5rem; */
     color: #6c757d;
 }
+
+.grey h6 {
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.grey p{
+  text-decoration: none;
+}
